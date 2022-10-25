@@ -1,0 +1,5 @@
+Credentials cache: API:6F4A2C3C-37F1-469B-A3CE-44AA85A998CD
+        Principal: dvergobb@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  5 13:25:41 2021  Jul  6 13:25:41 2021  krbtgt/42LYON.FR@42LYON.FR
